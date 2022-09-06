@@ -1,0 +1,199 @@
+.container{
+	width: auto;
+	height: auto;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 100px;
+	box-sizing: border-box;
+	
+}
+
+.content{
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+}
+
+
+.flex-content1{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: space-between;
+	box-sizing: border-box;
+	border-bottom: 1px solid #e3dcdc;
+}
+
+.cont1{
+	width: 33.33%;
+	height: 100%;
+	border-right: 2px solid #e3dcdc;
+	margin-right: 10px;
+	padding-left: 10px;
+	padding: 10px;
+}
+
+.cont2{
+	width: 33.33%;
+	height: auto;
+	border-right: 2px solid #e3dcdc;
+	margin-right: 10px;
+	padding-left: 10px;
+	padding: 10px;
+}
+
+.cont3{
+	width: 33.33%;
+	height: auto;
+	padding-left: 10px;
+	padding: 10px;
+}
+
+.cont1 h2{
+	font-family: sans-serif;
+	font-size: 25px;
+	color: blue;
+}
+
+.cont2 h2{
+	font-family: sans-serif;
+	font-size: 25px;
+	color: blue;
+}
+
+.cont3 h2{
+	font-family: sans-serif;
+	font-size: 25px;
+	color: blue;
+}
+
+.cont1 h1{
+	font-family: sans-serif;
+	font-size: 35px;
+	color: #212172;
+}
+
+.cont2 h1{
+	font-family: sans-serif;
+	font-size: 35px;
+	color: #212172;
+}
+
+.cont3 h1{
+	font-family: sans-serif;
+	font-size: 35px;
+	color: #212172;
+}
+
+.cont1 p{
+	font-family: sans-serif;
+	font-size: 14px;
+	color: #757581;
+}
+
+.cont2 p{
+	font-family: sans-serif;
+	font-size: 14px;
+	color: #757581;
+}
+
+.cont3 p{
+	font-family: sans-serif;
+	font-size: 14px;
+	color: #757581;
+}
+
+	
+
+.flex-content2{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: space-between;
+	box-sizing: border-box;
+	border-top: 1px solid #e3dcdc;
+}
+
+.cont4{
+	width: 33.33%;
+	height: auto;
+	border-right: 2px solid #e3dcdc;
+	margin-right: 10px;
+	padding-left: 10px;
+	padding: 10px;
+}
+
+.cont5{
+	width: 33.33%;
+	height: auto;
+	border-right: 2px solid #e3dcdc;
+	margin-right: 10px;
+	padding-left: 10px;
+	padding: 10px;
+}
+
+.cont6{
+	width: 33.33%;
+	height: auto;
+	padding-left: 10px;
+	padding: 10px;
+}
+
+.cont4 h2{
+	font-family: sans-serif;
+	font-size: 25px;
+	color: blue;
+}
+
+.cont5 h2{
+	font-family: sans-serif;
+	font-size: 25px;
+	color: blue;
+}
+
+.cont6 h2{
+	font-family: sans-serif;
+	font-size: 25px;
+	color: blue;
+}
+
+.cont4 h1{
+	font-family: sans-serif;
+	font-size: 35px;
+	color: #212172;
+}
+
+.cont5 h1{
+	font-family: sans-serif;
+	font-size: 35px;
+	color: #212172;
+}
+
+.cont6 h1{
+	font-family: sans-serif;
+	font-size: 35px;
+	color: #212172;
+}
+
+.cont4 p{
+	font-family: sans-serif;
+	font-size: 14px;
+	color: #757581;
+}
+
+.cont5 p{
+	font-family: sans-serif;
+	font-size: 14px;
+	color: #757581;
+}
+
+
+.cont6 p{
+	font-family: sans-serif;
+	font-size: 14px;
+	color: #757581;
+}
+
+
+	
+	
