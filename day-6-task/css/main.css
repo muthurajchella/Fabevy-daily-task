@@ -1,0 +1,193 @@
+.about{
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+}
+
+.container{
+	width: auto;
+	height: auto;
+	margin-left: 100px;
+	margin-right: 100px;
+	box-sizing: border-box;
+}
+
+.body{
+	width: 100%;
+	height: 100%;
+	box-sizing: border-box;
+}
+
+.about-head{
+	width: 100%;
+	height: 20%;
+	text-align: center;
+	box-sizing: border-box;
+}
+
+.ah{
+	width: 60px;
+	height: 20px;
+	background-color: #cfebea7d;
+	color: blue;
+	border-radius: 8px;
+	text-align: center;
+	margin-left: 530px;
+}
+
+.ah h5{
+	font-family: sans-serif;
+	font-size: 12px;
+	padding-top: 5px;
+}
+
+.about-head h1{
+	font-family: sans-serif;
+	font-size: 30px;
+	color: black;
+}
+
+.about-head b{
+	font-family: sans-serif;
+	font-size: 30px;
+	color: blue;
+}
+
+
+.about-head p{
+	font-family: sans-serif;
+	font-size: 16px;
+	color: #a5a5b3;
+	
+}
+
+.about-banner{
+	width: 100%;
+	height: 80%;
+	display: flex;
+	margin-top: 30px;
+	box-sizing: border-box;
+}
+
+.abimg{
+	width: 50%;
+	height: 550px;
+	background-image: url(../img/about.jpg);
+	background-position: center;
+	background-size: cover;
+	box-sizing: border-box;
+}
+
+.abcontent{
+	width: 50%;
+	height: auto;
+	box-sizing: border-box;
+}
+
+.c1{
+	width: 100%;
+	height: 33%;
+	box-sizing: border-box;
+	border-bottom: -10px;
+}
+
+.c1 p{
+	font-family: sans-serif;
+	font-size: 25px;
+	font-weight: 700;
+	color: black;
+	margin-left: 20px;
+}
+
+.c2{
+	width: 100%;
+	height: 33%;
+	box-sizing: border-box;
+	margin-top: -40px;
+}
+
+.icon1{
+	width: 100%;
+	height: auto;
+	display: flex;
+	transition: 0.5s;
+}
+
+.iconc{
+	width: 10%;
+	height: 50px;
+	margin-top: 20px;
+	margin-left: 20px;
+	text-align: center;
+	background-color: #e7e7f3;
+	border-radius: 25px;
+	transition: 0.5s;
+	box-shadow: 0px 0px 8px red;
+}
+
+.iconc i{
+	font-size: 30px;
+	margin-top: 9px;
+	color: blue;
+	transition: 0.5s;	
+}
+
+.iconp{
+	width: 80%;
+	height: auto;
+	
+}
+
+.c3{
+	width: 100%;
+	height: 33%;
+	box-sizing: border-box;
+	margin-top: 30px;
+}
+
+.iconp p{
+	font-family: sans-serif;
+	font-size: 16px;
+	color: black;
+	margin-left: 20px;
+	line-height: 28px;
+}
+
+.icon2{
+	width: 100%;
+	height: auto;
+	display: flex;
+}
+
+.icon2 i{
+	font-size: 25px;
+	margin-top: 12px;
+}
+
+.c3 p{
+	font-size: sans-serif;
+	font-size: 17px;
+	color: #918a8a;
+	margin-left: 20px;
+	line-height: 25px;
+}
+
+.c1 h4{
+	font-family: sans-serif;
+	font-size: 16px;
+	color: #918a8a;
+	margin-left: 20px;
+}
+
+.iconc:hover{
+	background-color: blue;
+}
+
+.iconc:hover i{
+	color: white;
+}
+
+
+
+
+	
