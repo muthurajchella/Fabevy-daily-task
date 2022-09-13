@@ -263,6 +263,7 @@
     margin-top: 20px;
     margin-bottom: 20px;
     transition: 0.5s;
+    cursor: pointer;
 }
 
 .feature-box1 p{
@@ -296,6 +297,7 @@
     margin-top: 20px;
     margin-bottom: 20px;
     transition: 0.5s;
+    cursor: pointer;
 }
 
 .feature-box2 p{
@@ -328,6 +330,7 @@
     margin-top: 20px;
     margin-bottom: 20px;
     transition: 0.5s;
+    cursor: pointer;
 }
 
 .feature-box3 p{
@@ -351,3 +354,86 @@
 }
 
 /*Feature End*/
+
+/*About Start*/
+
+.about{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    box-sizing: border-box;
+    margin-top: 70px;
+}
+
+.about-flex{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.about-img{
+    width: 50%;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.abimg{
+    width: 100%;
+    height: 400px;
+    background-image: url(../img/about.png);
+    background-position: center;
+    background-size: cover;
+}
+
+.about-content{
+    width: 50%;
+    height: auto;
+    box-sizing: border-box;
+    margin-left: 40px;
+}
+
+.about-content h1{
+    font-family: "raleway";
+    font-size: 30px;
+    font-weight: 700;
+    color: #181515;
+    line-height: 35px;
+}
+
+.about-content h4{
+    font-family: "raleway-italic";
+    font-size: 18px;
+    color: #080808;
+    line-height: 23px;
+    margin-top: 10px;
+}
+
+.about-content ul{
+    margin-top: 25px;
+}
+
+.about-content ul li{
+    font-family: "raleway";
+    font-size: 16px;
+    color: #181515;
+    line-height: 35px;
+}
+
+.about-content ul li i{
+    color: #16df7e;
+    font-size: 20px;
+}
+
+
+.about-content p{
+    font-family: "raleway";
+    font-size: 17px;
+    color: #181515;
+    line-height: 30px;
+    margin-top: 25px;
+}
+
+
+/*About Start*/
