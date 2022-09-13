@@ -434,6 +434,114 @@
     line-height: 30px;
     margin-top: 25px;
 }
-
+/*About End*/
 
 /*About Start*/
+.value{
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    margin-top: 80px;
+}
+
+.value-flex{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.value-box1{
+    width: 25%;
+    height: auto;
+    text-align: center;
+    box-sizing: border-box;
+    margin-right: 15px;
+}
+
+.value-box1 h1{
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    color: #16df7e;
+}
+
+.value-box1 p{
+    font-family: "raleway";
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+    margin-top: 10px;
+}
+
+.value-box2{
+    width: 25%;
+    height: auto;
+    text-align: center;
+    box-sizing: border-box;
+    margin-right: 15px;
+}
+
+.value-box2 h1{
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    color: #16df7e;
+}
+
+.value-box2 p{
+    font-family: "raleway";
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+    margin-top: 10px;
+}
+
+.value-box3{
+    width: 25%;
+    height: auto;
+    text-align: center;
+    box-sizing: border-box;
+    margin-right: 15px;
+}
+
+.value-box3 h1{
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    color: #16df7e;
+}
+
+.value-box3 p{
+    font-family: "raleway";
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+    margin-top: 10px;
+}
+
+.value-box4{
+    width: 25%;
+    height: auto;
+    text-align: center;
+    box-sizing: border-box;
+    margin-right: 15px;
+}
+
+.value-box4 h1{
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    color: #16df7e;
+}
+
+.value-box4 p{
+    font-family: "raleway";
+    font-size: 14px;
+    font-weight: 600;
+    color: black;
+    margin-top: 10px;
+}
+
+/*About End*/
