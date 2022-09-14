@@ -543,5 +543,502 @@
     color: black;
     margin-top: 10px;
 }
-
 /*About End*/
+
+/*Services Start*/
+.services{
+    width: 100%;
+    height: 100%;
+    background-color: #f9f9fa;
+    box-sizing: border-box;
+    margin-top: 60px;
+    padding-top: 100px;
+}
+
+.serv-head{
+    width: 100%;
+    height: 10%;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.serv-head h1{
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    color: #5f687b;
+    position: relative;
+    z-index: 1;
+}
+
+.serv-head h4{
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    color: #3635350f;
+    position: absolute;
+    z-index: 1;
+    margin-left: 427px;
+    margin-top: -55px;
+}
+
+.serv-head p{
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #7c7979;
+    margin-top: 15px;
+}
+
+.serv-boxs{
+    width: 100%;
+    height: 90%;
+    margin-top: 30px;
+    box-sizing: border-box;
+}
+
+.serv-flex1{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+}
+
+.serv-box1{
+    width: 33.33%;
+    height: auto;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0px 0px 3px #f5efef;
+    margin-right: 20px;
+    padding: 30px;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+.serv-box1 i{
+    font-size: 35px;
+    color: #16df7e;    
+}
+
+.serv-box1 h1{
+    font-family: "raleway";
+    font-size: 25px;
+    font-weight: 600;
+    color: #5f687b;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    transition: 0.5s;  
+    cursor: pointer;
+}
+
+
+.serv-box1 p{
+    font-family: "raleway";
+    font-size: 15px;
+    color: #8d8989;
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+.serv-box2{
+    width: 33.33%;
+    height: auto;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0px 0px 3px #f5efef;
+    margin-right: 20px;
+    padding: 30px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+
+.serv-box2 i{
+    font-size: 30px;
+    color: #16df7e;   
+}
+
+.serv-box2 h1{
+    font-family: "raleway";
+    font-size: 25px;
+    font-weight: 600;
+    color: #5f687b;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: 0.5s;  
+}
+
+
+.serv-box2 p{
+    font-family: "raleway";
+    font-size: 15px;
+    color: #8d8989;
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+.serv-box3{
+    width: 33.33%;
+    height: auto;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0px 0px 3px #f5efef;
+    margin-right: 20px;
+    padding: 30px;
+    padding-top: 70px;
+    padding-bottom: 50px; 
+}
+
+.serv-box3 i{
+    font-size: 35px;
+    color: #16df7e;  
+}
+
+.serv-box3 h1{
+    font-family: "raleway";
+    font-size: 25px;
+    font-weight: 600;
+    color: #5f687b;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+
+
+.serv-box3 p{
+    font-family: "raleway";
+    font-size: 15px;
+    color: #8d8989;
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+.serv-flex2{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: space-between;
+    box-sizing: border-box;
+    margin-top:20px;
+}
+
+.serv-box4{
+    width: 33.33%;
+    height: auto;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0px 0px 3px #f5efef;
+    margin-right: 20px;
+    padding: 30px;
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+.serv-box4 i{
+    font-size: 35px;
+    color: #16df7e; 
+}
+
+.serv-box4 h1{
+    font-family: "raleway";
+    font-size: 25px;
+    font-weight: 600;
+    color: #5f687b;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+
+.serv-box4 p{
+    font-family: "raleway";
+    font-size: 15px;
+    color: #8d8989;
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+.serv-box5{
+    width: 33.33%;
+    height: auto;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0px 0px 3px #f5efef;
+    margin-right: 20px;
+    padding: 30px;
+    padding-top: 80px;
+    padding-bottom: 50px; 
+}
+
+.serv-box5 i{
+    font-size: 30px;
+    color: #16df7e;  
+}
+
+.serv-box5 h1{
+    font-family: "raleway";
+    font-size: 25px;
+    font-weight: 600;
+    color: #5f687b;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+
+.serv-box5 p{
+    font-family: "raleway";
+    font-size: 15px;
+    color: #8d8989;
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+.serv-box6{
+    width: 33.33%;
+    height: auto;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0px 0px 3px #f5efef;
+    margin-right: 20px;
+    padding: 30px;
+    padding-top: 80px;
+    padding-bottom: 50px; 
+}
+
+.serv-box6 i{
+    font-size: 30px;
+    color: #16df7e;   
+}
+
+.serv-box6 h1{
+    font-family: "raleway";
+    font-size: 25px;
+    font-weight: 600;
+    color: #5f687b;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+
+.serv-box6 p{
+    font-family: "raleway";
+    font-size: 15px;
+    color: #8d8989;
+    margin-bottom: 20px;
+    line-height: 20px;
+}
+
+
+.serv-box1:hover h1{
+    color: #16df7e;
+}
+
+.serv-box2:hover h1{
+    color: #16df7e;
+}
+
+.serv-box3:hover h1{
+    color: #16df7e;
+}
+
+.serv-box4:hover h1{
+    color: #16df7e;
+}
+
+.serv-box5:hover h1{
+    color: #16df7e;
+}
+
+.serv-box6:hover h1{
+    color: #16df7e;
+}
+
+.serv-box1:hover{
+    border: solid 1px #ede8e8;
+}
+
+.serv-box2:hover{
+    border: solid 1px #ede8e8;
+}
+
+.serv-box3:hover{
+    border: solid 1px #ede8e8;
+}
+
+.serv-box4:hover{
+    border: solid 1px #ede8e8;
+}
+
+.serv-box5:hover{
+    border: solid 1px #ede8e8;
+}
+
+.serv-box6:hover{
+    border: solid 1px #ede8e8;
+}
+/*Services End*/
+
+/*Portfolio Start*/
+.portfolio{
+    width: 100%;
+    height: 100%;
+    margin-top: 100px;
+    background-color: white;
+    box-sizing: border-box;
+}
+
+.portfolio-head{
+    width: 100%;
+    height: 10%;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.portfolio-head h1{
+    font-family: sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    color: #5f687b;
+    position: relative;
+    z-index: 1;
+}
+
+.portfolio-head h4{
+    font-family: sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    color: #2c2b2b17;
+    position: absolute;
+    z-index: 1;
+    margin-left: 410px;
+    margin-top: -55px;
+}
+
+.portfolio-head p{
+    font-family: sans-serif;
+    font-size: 17px;
+    color: #7c7979;
+    margin-top: 15px;
+}
+
+.port-menu{
+    width: 100%;
+    height: 5%;
+    display: flex;
+    box-sizing: border-box;
+    margin-top: 50px;
+}
+
+.port-menu1{
+    width: 50px;
+    height: 25px;
+    background-color: #fffdfd;
+    text-align: center;
+    margin-bottom: 50px;
+    cursor: pointer;
+    margin-right: 25px;
+    margin-left: 38%;
+    transition: 0.5s;
+}
+
+.port-menu1 h1{
+    font-family: "raleway";
+    font-size: 15px;
+    font-weight: 700;
+    color: #16df7e;
+    cursor: pointer;
+    margin-top: 3px;
+    transition: 0.5s;
+}
+
+
+.port-menu2{
+    width: 50px;
+    height: 25px;
+    background-color: #fffdfd;
+    text-align: center;
+    margin-bottom: 50px;
+    cursor: pointer;
+    margin-right: 25px;
+    transition: 0.5s;
+}
+
+.port-menu2 h1{
+    font-family: "raleway";
+    font-size: 15px;
+    font-weight: 700;
+    color: #4d5451;
+    cursor: pointer;
+    margin-top: 3px;
+    transition: 0.5s;
+}
+
+
+.port-menu3{
+    width: 50px;
+    height: 25px;
+    background-color: #fffdfd;
+    text-align: center;
+    margin-bottom: 50px;
+    cursor: pointer;
+    margin-right: 25px;
+    transition: 0.5s;
+}
+
+.port-menu3 h1{
+    font-family: "raleway";
+    font-size: 15px;
+    font-weight: 700;
+    color: #4d5451;
+    cursor: pointer;
+    margin-top: 3px;
+    transition: 0.5s;
+}
+
+
+.port-menu4{
+    width: 50px;
+    height: 25px;
+    background-color: #fffdfd;
+    text-align: center;
+    margin-bottom: 50px;
+    cursor: pointer;
+    margin-right: 25px;
+    transition: 0.5s;
+}
+
+.port-menu4 h1{
+    font-family: "raleway";
+    font-size: 15px;
+    font-weight: 700;
+    color: #4d5451;
+    cursor: pointer;
+    margin-top: 3px;
+    transition: 0.5s;
+}
+
+.port-menu1:hover h1{
+    color: #16df7e;
+}
+
+
+.port-menu2:hover h1{
+    color: #16df7e;
+}
+
+
+.port-menu3:hover h1{
+    color: #16df7e;
+}
+
+
+.port-menu4:hover h1{
+    color: #16df7e;
+}
+
